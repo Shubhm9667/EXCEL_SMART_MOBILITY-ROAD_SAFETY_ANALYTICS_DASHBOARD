@@ -1,3 +1,3 @@
-# 🚦 Excel Smart Mobility Road Safety Analysis Dashboard 
-
+## 🚦 Excel Smart Mobility Road Safety Analysis Dashboard 
+<br>
 2 dataset analytics project that combines two real-world datasets, 20,000 Indian road accident records and 5,000 smart-mobility sensor readings, into a single interactive Excel dashboard. It covers raw data cleaning, data quality reports, KPI design, PivotTables, Pivot Charts and slicers, so city authorities can see road safety and traffic flow in one place.
