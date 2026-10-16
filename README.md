@@ -7,7 +7,7 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
-- <a href="#project-structure">Project Structure</a>
+- <a href="#repository--structure">Repository Structure</a>
 - <a href="#data-cleaning-steps">Data Cleaning Steps</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
 - <a href="#dashboard-features">Dashboard Features</a>
@@ -43,7 +43,7 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 **Coverage:** 8 cities (Mumbai, Delhi, Pune, Chennai, Kolkata, Bangalore, Hyderabad, Chandigarh), 7 states, **34,529 total casualties.** 
 
 ---
-<h2>🛠️<a class="anchor" id="tools & technologies"></a>Tools & Technologies</h2>
+<h2>🛠️<a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
  || Tool | Purpose || <br>
 | **Microsoft Excel** |:- Data cleaning, KPI tables, PivotTables, Pivot Charts, Slicers, dashboard design |
@@ -52,7 +52,7 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 
 ---
 
-<h2>📂<a class="anchor" id="repository structure"></a>Repository Structure</h2>
+<h2>📂<a class="anchor" id="repository--structure"></a>Repository Structure</h2>
 
 ```
 Smart-City-Traffic-Analytics/
@@ -160,7 +160,7 @@ Smart-City-Traffic-Analytics/
 Traffic sensor and road accident datasets from public open-data sources (e.g. Kaggle, Data.gov.in).
 
 ---
-<h2>👤<a class="anchor" id="author--contact"></a>Author & Contact</h2>
+<h2>👤<a class="anchor" id="author"></a>Author</h2>
 
 **Shubham**  
 Aspiring Data Analyst | Python . SQL . Excel .Power BI <br>
