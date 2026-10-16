@@ -165,10 +165,10 @@ Traffic sensor and road accident datasets from public open-data sources (e.g. Ka
 <h2>👤<a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Shubham**  
-Aspiring Data Analyst | Python . SQL . Excel .Power BI
-📧 Email: Shubhamrvsharma@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
+Aspiring Data Analyst | Python . SQL . Excel .Power BI <br>
+📧 Email: Shubhamrvsharma@gmail.com <br>
+🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/) <br>
+🔗 [Portfolio](https://www.youtube.com/@techclasses0810/) <br>
 📍 Delhi, India
 
 
