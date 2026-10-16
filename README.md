@@ -100,4 +100,71 @@ Smart-City-Traffic-Analytics/
 - **Slicers** with separate filter panels for the Mobility dataset and the Indian Roads dataset
 - **Key Insights panel** summarizing the finding of every chart in plain language
 
+---
+
+## 🔍 Key Insights
+
+**Traffic & Mobility**
+1. Traffic Volume by Hour :- Peak traffic at Hour 19 (7 PM) with Average 171.13 vehicles. Lowest at Hour 9 with 142.85 vehicles. Overall Average = 153.92
+
+2. Average Traffic Speed by Traffic Condition : - Low traffic has highest speed (59.9 km/h). High traffic has lowest speed (37.9 km/h). Overall Average Speed = 42.11 km/h
+
+3. Traffic Condition Distribution : - High traffic condition is most common (63.32%). Medium = 29.50%, Low = 7.18%
+
+4. Average Emission & Energy by Traffic Condition : - High congestion has highest Emissions (274.45). Energy Consumption is almost same across all conditions (17.2 - 17.5)
+
+5. Occupancy & Speed during Accidents : - Very little difference in Occupancy and Speed between Accident and No-Accident cases. Both remain almost same (~54.5% Occupancy, ~42.1 km/h Speed)
+
+6. Road Occupancy by Traffic Light State : - Green light has slightly higher Occupancy (55.12%). Red = 54.68%, Yellow = 54.46%. Overall difference is very small.
+
+**Road Safety**
+1. Accidents by City :- Chandigarh has the highest number of accidents
+
+2. Accidents by Cause : - Distraction is the most common cause (4026). Over speeding is very close (4025). All causes are almost equally distributed
+
+3. High Risk City by Average Risk Scroe :- Hyderabad has the highest Average Risk Score Among the analyzed Cities.
+
+4. Peak Hours vs Non-Peak Accidents : - Peak Hours account for 24.74% of accidents. Non-Peak account for 75.26%
+
+5. Weather vs Accident Severity : - Clear, Fog and Rain show almost identical severity pattern (Fatal ~15%, Major ~30%, Minor ~55%). Weather has no significant impact on severity
+
+6. Visibility vs Accident Severity : - High, Low and Medium Visibility also show almost identical severity pattern. Visibility has no significant impact on severity
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Data cleaning and validation using Power Query and Excel formulas
+- Data quality reporting (missing values, duplicates, data types, validation)
+- Business-problem framing: problem statement, objectives, stakeholders, KPIs and business questions
+- KPI design with `COUNTIF/COUNTIFS/AVERAGE`
+- PivotTables, Pivot Charts and Slicers for self-service analytics
+- Dashboard design and insight writing for non-technical stakeholders
+
+---
+
+## 💡 Recommendations
+
+- Target patrols and enforcement at **evening peak hours (around 7 PM)** and at **distraction and overspeeding** cases.
+- Since risk is spread evenly across cities, run **city-wide campaigns** rather than single-city drives.
+- Use High-congestion windows to plan **signal-timing changes and emission-reduction measures**.
+
+---
+
+## 📎 Data Source
+
+Traffic sensor and road accident datasets from public open-data sources (e.g. Kaggle, Data.gov.in).
+
+---
+
+## 👤 Author
+
+**Shubham**
+Aspiring Data Analyst | Python · SQL · Excel · Power BI
+📍 Delhi, India
+
+
+
+
+
 
