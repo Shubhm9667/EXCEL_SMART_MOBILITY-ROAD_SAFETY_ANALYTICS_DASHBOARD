@@ -162,13 +162,14 @@ Smart-City-Traffic-Analytics/
 Traffic sensor and road accident datasets from public open-data sources (e.g. Kaggle, Data.gov.in).
 
 ---
-<h2>👤<a class="anchor" id="author"></a>Author</h2>
+<h2>👤<a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Shubham**
-Aspiring Data Analyst | Python · SQL · Excel · Power BI
+**Shubham**  
+Aspiring Data Analyst | Python . SQL . Excel .Power BI
+📧 Email: Shubhamrvsharma@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
+🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
 📍 Delhi, India
-
-
 
 
 
