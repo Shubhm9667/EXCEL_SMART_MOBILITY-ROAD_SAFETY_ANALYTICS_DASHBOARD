@@ -15,13 +15,14 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 - <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#author--contact">Author & Contact</a>
 ---
-<h2><a class="anchor" id="Project Overview"></a>Project Overview</h2>
+<h2>📌<a class="anchor" id="project overview"></a>Project Overview</h2>
 
 - Road safety and traffic management are usually handled as separate silos inside a city administration. This project analyzes accident history (2022–2025) alongside high-frequency traffic sensor data (speed, occupancy, emissions, ride-sharing demand) to build a data-driven decision framework.
 
 - Objective: Turn two raw datasets into a decision-ready, self-service dashboard that answers where and when accidents happen, how traffic flows, and what congestion costs in emissions and energy.
 
-## ❓ Business Problem
+<h2>❓<a class="anchor" id="business problem"></a>Business Problem</h2>
+
 - Accident side:- 20,000 accident records exist, but actionable patterns (riskiest cities, causes, times, road types) have not been extracted, so patrolling and safety policy stay reactive.
 
 - Traffic sensor side:- Real-time IoT readings sit as raw data without analysis of how congestion and pollution change by hour or weather.
@@ -30,7 +31,8 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 
 ---
 
-## 🗄️ Dataset
+<h2>🗄️<a class="anchor" id="dataset"></a>Dataset</h2>
+
 | Dataset	| Rows | Grain | Key fields |
 |---|---|---|---|
 |`Indian Roads Accident` | 20,000 |	One row per accident |	city, state, date/time, road type, lanes, traffic signal, weather, visibility, cause, severity, vehicles involved, casualties, peak-hour flag, festival, risk score |
