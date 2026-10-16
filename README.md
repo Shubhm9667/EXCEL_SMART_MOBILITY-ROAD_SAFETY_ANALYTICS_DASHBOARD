@@ -34,10 +34,10 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 |---|---|---|---|
 |`Indian Roads Accident` | 20,000 |	One row per accident |	city, state, date/time, road type, lanes, traffic signal, weather, visibility, cause, severity, vehicles involved, casualties, peak-hour flag, festival, risk score |
 | `Smart Mobility` | 5,000 | One reading every 5 minutes (1–9 March 2024) |	vehicle count, traffic speed, road occupancy, traffic light state, weather, accident report, sentiment score, ride-sharing demand, parking availability, emissions, energy consumption, traffic condition | 
-<br>
-Coverage: 8 cities (Mumbai, Delhi, Pune, Chennai, Kolkata, Bangalore, Hyderabad, Chandigarh), 7 states, 34,529 total casualties. 
 
-Data cleaning steps:
+**Coverage:** 8 cities (Mumbai, Delhi, Pune, Chennai, Kolkata, Bangalore, Hyderabad, Chandigarh), 7 states, **34,529 total casualties.** 
+
+**Data cleaning steps:**
 
 - Removed blank padding rows from the Smart Mobility sheet (only 5,000 rows held real data)
 - Added derived columns (Year, Month, Day, Day Name, Day Type, Casualty Category, Risk Category)
@@ -79,5 +79,25 @@ Smart-City-Traffic-Analytics/
 
 ```
 ---
+## 🧮 Key KPIs
+
+**Road Safety (Indian Roads dataset)**
+
+- (`Total Accidents`), (`Total Casualties`), (`Total Fatal Accidents`) and (`Fatal Accident Rate`)
+- (`Average Risk Score`)
+
+**Traffic & Mobility (Smart Mobility dataset)**
+
+- (`Total Vehicles`), (`Average Traffic Speed`), (`Average Road Occupancy`)
+- (`Average Emission Level`) and (`Average Energy Consumption`) per congestion tier
+---
+## 📊 Dashboard Features
+
+- **KPI cards** for both datasets (accidents, casualties, fatal rate, risk score, vehicles, speed, occupancy, emissions, energy)
+- **12 Pivot  Charts** built on **12 PivotTables**:
+  - *Traffic:* Traffic Volume by Hour, Average Speed by Traffic Condition, Traffic Condition Distribution, Emission & Energy by Condition, Occupancy & Speed during Accidents vs No Accidents, Road Occupancy by Traffic Light State
+  - *Road Safety:* Accidents by City, Accidents by Cause, High-Risk City by Average Risk Score, Peak vs Non-Peak Accidents, Weather vs Severity, Visibility vs Severity
+- **Slicers** with separate filter panels for the Mobility dataset and the Indian Roads dataset
+- **Key Insights panel** summarizing the finding of every chart in plain language
 
 
