@@ -156,9 +156,7 @@ Smart-City-Traffic-Analytics/
 - Use High-congestion windows to plan **signal-timing changes and emission-reduction measures**.
 
 ---
-
 <h2>📎<a class="anchor" id="data source"></a>Data Source</h2>
-
 Traffic sensor and road accident datasets from public open-data sources (e.g. Kaggle, Data.gov.in).
 
 ---
