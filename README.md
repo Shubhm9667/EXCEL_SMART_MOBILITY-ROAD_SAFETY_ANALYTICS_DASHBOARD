@@ -33,7 +33,15 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 | Dataset	| Rows | Grain | Key fields |
 |---|---|---|---|
 |`Indian Roads Accident` | 20,000 |	One row per accident |	city, state, date/time, road type, lanes, traffic signal, weather, visibility, cause, severity, vehicles involved, casualties, peak-hour flag, festival, risk score |
-| `Smart Mobility` | 5,000 | One reading every 5 minutes (1–9 March 2024) |	vehicle count, traffic speed, road occupancy, traffic light state, weather, accident report, sentiment score, ride-sharing demand, parking availability, emissions, energy consumption, traffic condition |
+| `Smart Mobility` | 5,000 | One reading every 5 minutes (1–9 March 2024) |	vehicle count, traffic speed, road occupancy, traffic light state, weather, accident report, sentiment score, ride-sharing demand, parking availability, emissions, energy consumption, traffic condition | 
+<br>
+Coverage: 8 cities (Mumbai, Delhi, Pune, Chennai, Kolkata, Bangalore, Hyderabad, Chandigarh), 7 states, 34,529 total casualties. 
+
+Data cleaning steps:
+
+- Removed blank padding rows from the Smart Mobility sheet (only 5,000 rows held real data)
+- Added derived columns (Year, Month, Day, Day Name, Day Type, Casualty Category, Risk Category)
+- Produced data quality report workbooks: Missing Values, Duplicates, Data Types, Validation, Data Quality, Formula Documentation
 
 ---
 # 🛠️ Tools & Technologies
@@ -70,4 +78,6 @@ Smart-City-Traffic-Analytics/
 ├── 07_README.md
 
 ```
+---
+
 
