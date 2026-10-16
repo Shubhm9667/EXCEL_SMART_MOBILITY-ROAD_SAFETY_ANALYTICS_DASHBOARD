@@ -41,7 +41,7 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 **Coverage:** 8 cities (Mumbai, Delhi, Pune, Chennai, Kolkata, Bangalore, Hyderabad, Chandigarh), 7 states, **34,529 total casualties.** 
 
 ---
-# 🛠️ Tools & Technologies
+<h2>🛠️<a class="anchor" id="tools & technologies"></a>Tools & Technologies</h2>
 
  || Tool | Purpose || <br>
 | **Microsoft Excel** |:- Data cleaning, KPI tables, PivotTables, Pivot Charts, Slicers, dashboard design |
@@ -50,7 +50,7 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 
 ---
 
-## 📂 Repository Structure
+<h2>📂<a class="anchor" id="repository structure"></a>Repository Structure</h2>
 
 ```
 Smart-City-Traffic-Analytics/
@@ -77,14 +77,14 @@ Smart-City-Traffic-Analytics/
 ```
 ---
 
-## Data cleaning steps:
+<h2><a class="anchor" id="data cleaning steps:"></a>Data cleaning steps:</h2>
 
 - Removed blank padding rows from the Smart Mobility sheet (only 5,000 rows held real data)
 - Added derived columns (Year, Month, Day, Day Name, Day Type, Casualty Category, Risk Category)
 - Produced data quality report workbooks: Missing Values, Duplicates, Data Types, Validation, Data Quality, Formula Documentation
 
 ---
-## 🧮 Key KPIs
+<h2>🧮<a class="anchor" id="key kpis"></a>Key KPIs</h2>
 
 **Road Safety (Indian Roads dataset)**
 
@@ -96,7 +96,7 @@ Smart-City-Traffic-Analytics/
 - (`Total Vehicles`), (`Average Traffic Speed`), (`Average Road Occupancy`)
 - (`Average Emission Level`) and (`Average Energy Consumption`) per congestion tier
 ---
-## 📊 Dashboard Features
+<h2>📊<a class="anchor" id="dashboard features"></a>Dashboard Features</h2>
 
 - **KPI cards** for both datasets (accidents, casualties, fatal rate, risk score, vehicles, speed, occupancy, emissions, energy)
 - **12 Pivot  Charts** built on **12 PivotTables**:
@@ -106,8 +106,7 @@ Smart-City-Traffic-Analytics/
 - **Key Insights panel** summarizing the finding of every chart in plain language
 
 ---
-
-## 🔍 Key Insights
+<h2>🔍<a class="anchor" id="key insights"></a>Key Insights</h2>
 
 **Traffic & Mobility**
 1. Traffic Volume by Hour :- Peak traffic at Hour 19 (7 PM) with Average 171.13 vehicles. Lowest at Hour 9 with 142.85 vehicles. Overall Average = 153.92
@@ -137,7 +136,7 @@ Smart-City-Traffic-Analytics/
 
 ---
 
-## 🎯 Skills Demonstrated
+<h2>🎯<a class="anchor" id="skills demonstrated"></a>Skills Demonstrated</h2>
 
 - Data cleaning and validation using Power Query and Excel formulas
 - Data quality reporting (missing values, duplicates, data types, validation)
@@ -148,7 +147,7 @@ Smart-City-Traffic-Analytics/
 
 ---
 
-## 💡 Recommendations
+<h2>💡<a class="anchor" id="recommendations"></a>Recommendations</h2>
 
 - Target patrols and enforcement at **evening peak hours (around 7 PM)** and at **distraction and overspeeding** cases.
 - Since risk is spread evenly across cities, run **city-wide campaigns** rather than single-city drives.
@@ -156,13 +155,12 @@ Smart-City-Traffic-Analytics/
 
 ---
 
-## 📎 Data Source
+<h2>📎<a class="anchor" id="data source"></a>Data Source</h2>
 
 Traffic sensor and road accident datasets from public open-data sources (e.g. Kaggle, Data.gov.in).
 
 ---
-
-## 👤 Author
+<h2>👤<a class="anchor" id="author"></a>Author</h2>
 
 **Shubham**
 Aspiring Data Analyst | Python · SQL · Excel · Power BI
