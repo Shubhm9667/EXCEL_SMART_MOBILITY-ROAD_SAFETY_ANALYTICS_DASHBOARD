@@ -3,7 +3,7 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 
 ---
 ## 📌 Table of Contents
-- <a href="#overview">Overview</a>
+- <a href="#overview">Project Overview</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
