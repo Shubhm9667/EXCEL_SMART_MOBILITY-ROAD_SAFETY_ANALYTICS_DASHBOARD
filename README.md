@@ -1,3 +1,4 @@
+## 🚦 Smart City Traffic Analytics: Smart Mobility & Indian Road Safety Dashboard
 _2 dataset analytics project that combines two real-world datasets, 20,000 Indian road accident records and 5,000 smart-mobility sensor readings, into a single interactive Excel dashboard. It covers raw data cleaning, data quality reports, KPI design, PivotTables, Pivot Charts and slicers, so city authorities can see road safety and traffic flow in one place._
 
 ---
