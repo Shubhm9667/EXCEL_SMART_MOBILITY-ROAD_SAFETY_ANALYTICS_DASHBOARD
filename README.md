@@ -3,17 +3,19 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 
 ---
 ## 📌 Table of Contents
-- <a href="#overview">Project Overview</a>
+- <a href="#project-overview">Project Overview</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
-- <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
+- <a href="#data-cleaning-steps">Data Cleaning Steps</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
-- <a href="#dashboard">Dashboard</a>
-- <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
+- <a href="#dashboard-features">Dashboard Features</a>
+- <a href="#key-insights">Key Insights</a>
+- <a href="#skills-demonstrated">Skills Demonstrated</a>
+- <a href="#recommendations">Recommendations</a>
+- <a href="#data source">Data Source</a>
+- <a href="#author">Author</a>
 ---
 <h2>📌<a class="anchor" id="project overview"></a>Project Overview</h2>
 
@@ -84,7 +86,7 @@ Smart-City-Traffic-Analytics/
 - Produced data quality report workbooks: Missing Values, Duplicates, Data Types, Validation, Data Quality, Formula Documentation
 
 ---
-<h2>🧮<a class="anchor" id="key kpis"></a>Key KPIs</h2>
+<h2>🧮<a class="anchor" id="research-questions--key-findings"></a>Research-Questions--Key-Findings</h2>
 
 **Road Safety (Indian Roads dataset)**
 
