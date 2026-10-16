@@ -15,7 +15,8 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 - <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#author--contact">Author & Contact</a>
 ---
-## 📌 Project Overview
+<h2><a class="anchor" id="Project Overview"></a>Project Overview</h2>
+
 - Road safety and traffic management are usually handled as separate silos inside a city administration. This project analyzes accident history (2022–2025) alongside high-frequency traffic sensor data (speed, occupancy, emissions, ride-sharing demand) to build a data-driven decision framework.
 
 - Objective: Turn two raw datasets into a decision-ready, self-service dashboard that answers where and when accidents happen, how traffic flows, and what congestion costs in emissions and energy.
@@ -36,12 +37,6 @@ _2 dataset analytics project that combines two real-world datasets, 20,000 India
 | `Smart Mobility` | 5,000 | One reading every 5 minutes (1–9 March 2024) |	vehicle count, traffic speed, road occupancy, traffic light state, weather, accident report, sentiment score, ride-sharing demand, parking availability, emissions, energy consumption, traffic condition | 
 
 **Coverage:** 8 cities (Mumbai, Delhi, Pune, Chennai, Kolkata, Bangalore, Hyderabad, Chandigarh), 7 states, **34,529 total casualties.** 
-
-**Data cleaning steps:**
-
-- Removed blank padding rows from the Smart Mobility sheet (only 5,000 rows held real data)
-- Added derived columns (Year, Month, Day, Day Name, Day Type, Casualty Category, Risk Category)
-- Produced data quality report workbooks: Missing Values, Duplicates, Data Types, Validation, Data Quality, Formula Documentation
 
 ---
 # 🛠️ Tools & Technologies
@@ -78,6 +73,14 @@ Smart-City-Traffic-Analytics/
 ├── 07_README.md
 
 ```
+---
+
+## Data cleaning steps:
+
+- Removed blank padding rows from the Smart Mobility sheet (only 5,000 rows held real data)
+- Added derived columns (Year, Month, Day, Day Name, Day Type, Casualty Category, Risk Category)
+- Produced data quality report workbooks: Missing Values, Duplicates, Data Types, Validation, Data Quality, Formula Documentation
+
 ---
 ## 🧮 Key KPIs
 
