@@ -165,8 +165,7 @@ Traffic sensor and road accident datasets from public open-data sources (e.g. Ka
 **Shubham**  
 Aspiring Data Analyst | Python . SQL . Excel .Power BI <br>
 📧 Email: Shubhamrvsharma@gmail.com <br>
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/) <br>
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/) <br>
+🔗 [LinkedIn](www.linkedin.com/in/shubham-kumar-00a637401) <br>
 📍 Delhi, India
 
 
